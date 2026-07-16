@@ -1,128 +1,206 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Murad Hasan Fahim</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B,FFD93D,6BCB77,4D96FF&center=true&vCenter=true&multiline=false&width=650&separator=%3B&lines=Hi+there%2C+I'm+Murad+Hasan+Fahim;Backend+Developer+%7C+MERN+Stack+Enthusiast;RESTful+API+%26+System+Design+Lover;Welcome+to+my+GitHub!" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFD93D,50:6BCB77,75:4D96FF,100:A66CFF&height=180&section=header&text=Murad%20Hasan%20Fahim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
-
-</div>
+<h3 align="center">
+Backend Developer | MERN Stack Enthusiast | Software Engineer
+</h3>
 
 <p align="center">
-Computer Science &amp; Engineering graduate from <b>Rajshahi University of Engineering &amp; Technology (RUET)</b> with hands-on experience building full-stack web applications. Passionate about backend development, RESTful APIs, software engineering, and solving real-world problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Developer;REST+API+Developer;Competitive+Programmer;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/murad-hasan-fahim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/MuradHasanFahim"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:muradhasanfahim309@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:muradhasanfahim309@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/murad-hasan-fahim/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/MuradHasanFahim">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.codechef.com/users/fahim_callous">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 </p>
 
-<div align="center">
+---
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
+# 👨‍💻 About Me
 
-</div>
+🎓 Computer Science & Engineering graduate from **Rajshahi University of Engineering & Technology (RUET)**
 
-## 👨‍💻 About Me
+💻 Backend-focused Full Stack Developer passionate about building scalable web applications.
 
-```yaml
-🎓 Education   : B.Sc. in Computer Science & Engineering, RUET
-💻 Focus       : Backend-focused Full Stack Developer
-🌱 Learning    : Backend Development & Software Engineering best practices
-🧩 Interests   : REST API Development, System Design, Scalable Web Applications
-🔍 Practicing  : Problem Solving on Codeforces & CodeChef
-🤝 Open to     : Backend Developer / Software Engineer / Trainee SWE roles
-```
+🚀 Experienced in developing **RESTful APIs**, authentication systems, and full-stack MERN applications.
 
-<br/>
+🌱 Currently learning **Software Engineering**, **System Design**, and modern backend development practices.
 
-## 🚀 Tech Stack
+🧩 Strong interest in Backend Development, Software Engineering, and Problem Solving.
 
-<div align="center">
+🏆 Solved **500+** problems on Codeforces.
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+🤝 Open to **Backend Developer**, **Software Engineer**, and **Trainee Software Engineer** opportunities.
 
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+---
 
-**Backend**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-FF6C37?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.IO-EE2C6A?style=for-the-badge&logo=socket.io&logoColor=white"/>
+# 🚀 Tech Stack
 
-**Database**
-<br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white"/>
+### 💻 Languages
 
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<p>
+<img src="https://skillicons.dev/icons?i=js,cpp" />
+</p>
 
-</div>
+### 🎨 Frontend
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
-## 📌 Featured Projects
+### ⚙️ Backend
 
-### 🏥 &nbsp;Healthcare Appointment Management System
-> JWT Authentication & Role-Based Access Control &nbsp;•&nbsp; Appointment Scheduling & Slot Management &nbsp;•&nbsp; Cloudinary Integration &nbsp;•&nbsp; RESTful API Architecture
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io"/>
+</p>
 
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+### 🗄️ Database
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### 🛒 &nbsp;E-Commerce Web Application
-> Product & Order Management &nbsp;•&nbsp; Stripe Payment Integration &nbsp;•&nbsp; Shopping Cart System &nbsp;•&nbsp; Admin Dashboard
+### 🛠️ Tools
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
-<br/>
+---
 
-### 💬 &nbsp;Real-Time Chat Application
-> Socket.IO Real-Time Messaging &nbsp;•&nbsp; JWT Authentication &nbsp;•&nbsp; Cloudinary Profile Upload &nbsp;•&nbsp; Live Notifications
+# 📌 Featured Projects
 
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+## 🏥 Healthcare Appointment Management System
 
-<br/>
+- JWT Authentication & Role-Based Access Control
+- Appointment Scheduling & Slot Management
+- Cloudinary Integration
+- RESTful API Development
 
-## 🏆 Competitive Programming
+🔗 **Repository:**  
+https://github.com/MuradHasanFahim/Doctor-Appointment
 
-<div align="center">
+🌐 **Live Demo:**  
+https://doctor-appointment-frontend-kocu.onrender.com
 
-<img src="https://img.shields.io/badge/Codeforces-500%2B%20Problems%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeChef-Max%20Rating%201201-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+---
 
-</div>
+## 🛒 E-Commerce Web Application
 
-<br/>
+- Product, Cart & Order Management
+- Stripe Payment Integration
+- JWT Authentication
+- Cloudinary Image Upload
+- Admin Dashboard
 
-<div align="center">
+🔗 **Repository:**  
+https://github.com/MuradHasanFahim/Grocery-shop
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
+🌐 **Live Demo:**  
+https://grocery-shop-frontendd.onrender.com
 
-</div>
+---
 
-## 📫 Connect with Me
+## 💬 Real-Time Chat Application
 
-<div align="center">
+- Socket.IO Real-Time Messaging
+- JWT Authentication
+- Cloudinary Profile Upload
+- Live Notifications
 
-📧 **Email:** [muradhasanfahim309@gmail.com](mailto:muradhasanfahim309@gmail.com)
-&nbsp;|&nbsp;
-💼 **LinkedIn:** [murad-hasan-fahim](https://www.linkedin.com/in/murad-hasan-fahim)
-&nbsp;|&nbsp;
-💻 **GitHub:** [MuradHasanFahim](https://github.com/MuradHasanFahim)
+🔗 **Repository:**  
+https://github.com/MuradHasanFahim/ChatApp
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A66CFF,25:4D96FF,50:6BCB77,75:FFD93D,100:FF6B6B&height=100&section=footer" width="100%"/>
+# 🏆 Competitive Programming
+
+- 🔹 **Codeforces:** Solved **500+** problems
+- 🔹 **CodeChef:** Maximum Rating **1201**
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MuradHasanFahim&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradHasanFahim&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MuradHasanFahim&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MuradHasanFahim&theme=tokyonight&margin-w=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuradHasanFahim&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:muradhasanfahim309@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/murad-hasan-fahim/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/MuradHasanFahim">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.codechef.com/users/fahim_callous">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MuradHasanFahim&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
