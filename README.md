@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murad Hasan Fahim</h1>
 
 <h3 align="center">
-Backend Developer | MERN Stack Enthusiast | Software Engineer
+Backend Developer | MERN Stack Enthusiast | Aspiring AI/ML Engineer
 </h3>
 
 <p align="center">
